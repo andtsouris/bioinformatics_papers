@@ -1,1 +1,3 @@
-# bioinformatics_papers
+# Bioinformatics papers
+
+A curated list of bioinformatics papers.
